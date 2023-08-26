@@ -1,2 +1,3 @@
 utility functions
 yoyo v2
+Changed utility function

@@ -7,3 +7,4 @@ new utility funcation added
 add more func v6 in total
 you need to type [git diff --staged utility.txt]
 to unstage files type [git reset utility.txt]
+cmd to go to previous change [git checkout utility.txt]
